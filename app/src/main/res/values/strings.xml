@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custome Fan Controller Application</string>
+    <string name="fan_controller">Fan Controller</string>
+    <string name="fan_off">Off</string>
+    <string name="low">1</string>
+    <string name="medium">2</string>
+    <string name="high">3</string>
+</resources>
